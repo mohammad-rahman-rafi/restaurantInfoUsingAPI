@@ -8,4 +8,4 @@ APIs Used - Google's Geocode, FourSquare
 
 Database Used - SQLAlchemy
 
-Web Development Environment - Flask
+Web Development Environment - Python and Flask
