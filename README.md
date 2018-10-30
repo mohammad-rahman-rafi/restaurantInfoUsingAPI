@@ -10,8 +10,6 @@ On an UPDATE request, along with the name or any other related information about
 
 ### Technologies:
 
-APIs - Google's Geocode, FourSquare
-
-Database - SQLAlchemy
+APIs - Google's Geocode, FourSquare, SQLite
 
 Web Development Environment - Python and Flask
